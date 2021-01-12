@@ -4,10 +4,10 @@ Gruppe:      B
 Datensatz:  Titanic
 Datum:      08.12.2020
 
-Autoren:    Jochen Zubrod 
-            Ralf Bock
-            Said Oudou 
-            Manuela Hebel
+Autoren:    Manuela Hebel
+            xxx
+            xxx
+            xxx
 """
 
 #Impotieren alller benötigten Module/Klassen
